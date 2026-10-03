@@ -1,0 +1,65 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="512"
+    android:viewportHeight="512">
+    <!-- Blue Rounded Background -->
+    <path
+        android:fillColor="#0B56D6"
+        android:pathData="M115,0 L397,0 A115,115 0 0,1 512,115 L512,397 A115,115 0 0,1 397,512 L115,512 A115,115 0 0,1 0,397 L0,115 A115,115 0 0,1 115,0 Z" />
+
+    <!-- Outer Shield Border -->
+    <path
+        android:fillColor="#8CC2FF"
+        android:pathData="M256,52 C350,78 418,84 418,84 C418,240 376,360 256,424 C136,360 94,240 94,84 C94,84 162,78 256,52 Z" />
+
+    <!-- Inner Shield Surface -->
+    <path
+        android:fillColor="#0E45AC"
+        android:pathData="M256,68 C340,92 402,98 402,98 C402,235 362,344 256,405 C150,344 110,235 110,98 C110,98 172,92 256,68 Z" />
+
+    <!-- Father Silhouette Center (White) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M256,155m-42,0a42,42 0,1 1,84 0a42,42 0,1 1,-84 0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M172,265 C172,210 210,195 256,195 C302,195 340,210 340,265 Z" />
+
+    <!-- Boy Silhouette Left -->
+    <path
+        android:fillColor="#0B3C9E"
+        android:pathData="M190,235m-30,0a30,30 0,1 1,60 0a30,30 0,1 1,-60 0" />
+    <path
+        android:fillColor="#0B3C9E"
+        android:pathData="M140,325 C140,280 165,270 190,270 C215,270 230,280 235,325 Z" />
+
+    <!-- Girl Silhouette Right -->
+    <path
+        android:fillColor="#0B3C9E"
+        android:pathData="M320,238m-29,0a29,29 0,1 1,58 0a29,29 0,1 1,-58 0" />
+    <path
+        android:fillColor="#0B3C9E"
+        android:pathData="M276,325 C282,285 298,272 320,272 C345,272 370,285 370,325 Z" />
+
+    <!-- Smartphone Foreground with Shield & Lock -->
+    <path
+        android:fillColor="#031F6B"
+        android:strokeColor="#BFE0FF"
+        android:strokeWidth="9"
+        android:pathData="M224,290 L288,290 A26,26 0 0,1 314,316 L314,416 A26,26 0 0,1 288,442 L224,442 A26,26 0 0,1 198,416 L198,316 A26,26 0 0,1 224,290 Z" />
+
+    <!-- Phone Inner White Shield -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M256,330 C274,336 286,338 286,338 C286,372 276,396 256,408 C236,396 226,372 226,338 C226,338 238,336 256,330 Z" />
+
+    <!-- Padlock on Phone Screen -->
+    <path
+        android:fillColor="#0B4BBF"
+        android:pathData="M245,360 L267,360 A4,4 0 0,1 271,364 L271,378 A4,4 0 0,1 267,382 L245,382 A4,4 0 0,1 241,378 L241,364 A4,4 0 0,1 245,360 Z" />
+    <path
+        android:strokeColor="#0B4BBF"
+        android:strokeWidth="4"
+        android:pathData="M250,360 V351 C250,347.5 252.5,345 256,345 C259.5,345 262,347.5 262,351 V360" />
+</vector>

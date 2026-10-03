@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FamilyGuard الطفل</string>
+    <string name="status_protected">جهازك محمي بنجاح ✓</string>
+    <string name="status_unpaired">في انتظار الربط بعائلة</string>
+    <string name="sos_title">نداء استغاثة طارئ (SOS)</string>
+    <string name="dialog_block_title">التطبيق مقيّد</string>
+    <string name="dialog_block_desc">هذا التطبيق مقيد بواسطة FamilyGuard لتجاوز الحد اليومي أو بسبب قواعد الدراسة والنوم.</string>
+    <string name="btn_request_time">طلب وقت إضافي</string>
+    <string name="btn_back">الرجوع للخلف</string>
+</resources>

@@ -1,0 +1,8 @@
+{
+  "name": "FamilyGuard - Android Parental Control Suite",
+  "description": "منظومة رقابة أبوية احترافي متكاملة لنظام Android تشمل تطبيق الوالد Parent App، تطبيق الطفل Kids App، وخادم مزامنة آمن.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

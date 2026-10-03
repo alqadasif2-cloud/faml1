@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FamilyGuard Parent</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_location">Location</string>
+    <string name="title_screen_time">Screen Time</string>
+    <string name="title_monitoring">Live Monitoring</string>
+    <string name="title_settings">Settings</string>
+    <string name="action_block_now">Instant Lock</string>
+    <string name="action_unblock">Unlock</string>
+</resources>

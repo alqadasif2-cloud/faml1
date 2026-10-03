@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FamilyGuard Kids</string>
+    <string name="status_protected">Protected ✓</string>
+    <string name="status_unpaired">Waiting for Family Pairing</string>
+    <string name="sos_title">Emergency SOS</string>
+    <string name="dialog_block_title">App Restricted</string>
+    <string name="dialog_block_desc">This app is restricted by FamilyGuard parental policies.</string>
+    <string name="btn_request_time">Request More Time</string>
+    <string name="btn_back">Go Back</string>
+</resources>

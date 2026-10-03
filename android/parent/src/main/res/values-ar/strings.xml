@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FamilyGuard الوالد</string>
+    <string name="title_dashboard">الرئيسية</string>
+    <string name="title_location">الموقع</string>
+    <string name="title_screen_time">وقت الشاشة</string>
+    <string name="title_monitoring">المراقبة</string>
+    <string name="title_settings">الاقتران</string>
+    <string name="action_block_now">قفل فوري</string>
+    <string name="action_unblock">إلغاء القفل</string>
+</resources>
